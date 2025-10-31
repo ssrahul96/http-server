@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:22-alpine
 VOLUME /public
 WORKDIR /srv/http-server
 COPY package.json package-lock.json ./
