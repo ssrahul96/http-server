@@ -82,6 +82,10 @@
     {
       "name": "Jade Michael Thornton",
       "email": "jademichael@jmthornton.net"
+    },
+    {
+      "name": "Jorens Merenjanu",
+      "email": "jorensmerenjanu@gmail.com"
     }
   ],
   "dependencies": {
@@ -92,6 +96,7 @@
     "html-encoding-sniffer": "^3.0.0",
     "http-proxy": "^1.18.1",
     "mime": "^1.6.0",
+    "minimatch": "^10.1.1",
     "minimist": "^1.2.6",
     "opener": "^1.5.1",
     "portfinder": "^1.0.28",
